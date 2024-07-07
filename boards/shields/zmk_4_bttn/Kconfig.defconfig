@@ -1,0 +1,9 @@
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_ZMK_4_BTTN
+
+config ZMK_KEYBOARD_NAME
+    default "zmk_4_bttn"
+
+endif
