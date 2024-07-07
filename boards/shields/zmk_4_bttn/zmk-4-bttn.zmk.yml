@@ -1,8 +1,0 @@
-file_format: "1"
-id: zmk_4_bttn
-name: zmk_4_bttn
-type: shield
-url: https://github.com/gnl221/zmk-4-bttn
-requires: [pro_micro]
-features:
-  - keys
