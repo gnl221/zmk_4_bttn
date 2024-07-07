@@ -14,9 +14,16 @@
 
         default_layer {
             bindings = <
-                &kp Q &kp W
+                &kp Q &mo 1
+                &kp A &kp S
+            >;
+        };
+        lower_layer {
+            bindings = <
+                &bt BT_CLR &bt BT_SEL 0
                 &kp A &kp S
             >;
         };
     };
 };
+
